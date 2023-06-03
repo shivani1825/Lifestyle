@@ -1,8 +1,8 @@
 # ✨ CleanFreshly  ✨
 
-This is a web based application developed for health related telugu based website in india
+This is a web based application developed for cleanliness related website in india
 
-### This web based  application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based  cleanliness application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://jolly-ocean-0b22f7b00.3.azurestaticapps.net
