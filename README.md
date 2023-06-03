@@ -19,7 +19,7 @@ This is a web based application developed for health related telugu based websit
 
 ## Screenshots
 
- 📸
+ 
 
 
   ![Screenshot 2023-06-04 005823](https://github.com/shivani1825/Lifestyle/assets/117794760/4fd2bff1-6cbb-4748-96fe-570a0760dab2)
@@ -53,7 +53,5 @@ This is a web based application developed for health related telugu based websit
 ## Tech Stack 💻
 
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
-- HTML
 - CSS
-- Bootstrap
 - JavaScript
