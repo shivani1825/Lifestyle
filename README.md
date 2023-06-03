@@ -8,6 +8,11 @@ This is a web based application developed for health related telugu based websit
 **Project Link** - https://jolly-ocean-0b22f7b00.3.azurestaticapps.net
 **Project demo video link** - https://youtu.be/60PFp0QlVqw
 
+**Azure technologies used for Project**
+- Static web apps
+- Azure bot
+
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
