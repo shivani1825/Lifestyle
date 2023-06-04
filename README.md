@@ -41,7 +41,7 @@ This is a web based application developed for cleanliness related website in ind
 
 
 
-### services -
+### Services -
 
 
 ![Screenshot 2023-06-04 102149](https://github.com/shivani1825/Lifestyle/assets/117794760/575f4368-e0d7-409b-a139-fd172e3f4b4f)
@@ -49,7 +49,7 @@ This is a web based application developed for cleanliness related website in ind
 
 
 
-### azure bot-
+### Azure bot-
 
 
 
